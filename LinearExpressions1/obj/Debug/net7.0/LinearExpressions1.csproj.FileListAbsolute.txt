@@ -1,0 +1,14 @@
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.AssemblyInfoInputs.cache
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.AssemblyInfo.cs
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.csproj.CoreCompileInputs.cache
+D:\Learning languages\С#\Sana01\LinearExpressions1\bin\Debug\net7.0\LinearExpressions1.exe
+D:\Learning languages\С#\Sana01\LinearExpressions1\bin\Debug\net7.0\LinearExpressions1.deps.json
+D:\Learning languages\С#\Sana01\LinearExpressions1\bin\Debug\net7.0\LinearExpressions1.runtimeconfig.json
+D:\Learning languages\С#\Sana01\LinearExpressions1\bin\Debug\net7.0\LinearExpressions1.dll
+D:\Learning languages\С#\Sana01\LinearExpressions1\bin\Debug\net7.0\LinearExpressions1.pdb
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.dll
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\refint\LinearExpressions1.dll
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.pdb
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\LinearExpressions1.genruntimeconfig.cache
+D:\Learning languages\С#\Sana01\LinearExpressions1\obj\Debug\net7.0\ref\LinearExpressions1.dll
